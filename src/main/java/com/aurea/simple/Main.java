@@ -38,6 +38,6 @@ public class Main {
     }
 
     public String test6(String x) {
-       return "abcedef";
+       return "abcedefg";
     }
 }
